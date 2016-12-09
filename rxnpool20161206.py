@@ -694,17 +694,5 @@ def main():
         
 if __name__ == "__main__":
     main()
-    # start = time.strftime(r'%Y-%m-%d-%H-%M-%S',time.localtime(time.time()))
-    # print start
-
-    # smirks = 'CSC.Nc1ncnc2n(cnc12)[C@@H]1O[C@H](COP([O-])(=O)OP([O-])(=O)OP([O-])([O-])=O)[C@@H](O)[C@H]1O.[OH2]>>C[S+](C)CC1OC(n2cnc3c(N)ncnc32)C(O)C1O.O=P(O)(O)O.O=P(O)(O)OP(=O)(O)O'
-    # (coefSmirks,coefrxnName,coefrxnId) = smirks2rxnName(smirks)
-    # print coefSmirks
-    # print coefrxnName
-    # print coefrxnId
-
-    # end2 = time.strftime(r'%Y-%m-%d-%H-%M-%S',time.localtime(time.time()))
-    # print end2
-
 
 
